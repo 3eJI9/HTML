@@ -1,0 +1,35 @@
+body {
+    background-color: #252525;
+}
+
+div {
+    height: 50px;
+    width: 250px;
+    border-radius: 33px;
+    margin: 10px auto;
+}
+
+p {
+    text-align: center;
+}
+
+.a {
+    margin-top: 220px;
+    border: 6px solid #e15100;
+    color: #e15100;
+}
+
+.b {
+    border: 6px solid #3faec1;
+    color: #3faec1;
+}
+
+.c {
+    border: 6px solid #c320cd;
+    color: #c320cd;
+}
+
+.d {
+    border: 6px solid #f50909;
+    color: #f50909;
+}
